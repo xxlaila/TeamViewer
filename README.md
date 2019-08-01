@@ -6,5 +6,5 @@
 sudo python TeamViewer-id-changer.py
 ```
 ```
-使用mac知道python2.7 执行即可
+使用mac自带python2.7 执行即可
 ```
